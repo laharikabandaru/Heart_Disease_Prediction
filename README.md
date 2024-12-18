@@ -40,3 +40,7 @@ Slope of the Peak Exercise ST Segment: Specify the slope of the peak exercise ST
 Number of Major Vessels Colored by Fluoroscopy (0-3): Indicate the number of major vessels colored by fluoroscopy (0-3).
 
 Thalassemia: Specify the type of thalassemia.
+
+# Output:
+
+![Screenshot 2024-12-18 214941](https://github.com/user-attachments/assets/681cc024-d0bf-4f6b-98c2-89b98391edae)
